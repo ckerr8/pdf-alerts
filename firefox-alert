@@ -1,0 +1,1 @@
+if (app.viewerType=="PDF.js") app.alert("You're viewing this file in Firefox!");
