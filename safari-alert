@@ -1,0 +1,1 @@
+if (app.viewerType == "") app.alert("You're viewing this file in Apple Safari!");
