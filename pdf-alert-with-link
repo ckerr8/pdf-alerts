@@ -1,0 +1,4 @@
+var resp = app.alert("You're viewing this file in Adobe Acrobat.\nGo to our website?", 2, 2); // 2 = Yes/No buttons
+if (resp == 4) { // 4 corresponds to "Yes"
+  app.launchURL("https://leedsgrenville.com", true);
+}
